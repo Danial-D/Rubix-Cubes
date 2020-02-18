@@ -16,8 +16,8 @@ Skewb:
 
 ### Day 3 
 #### Cube Type | A012s 
-Pyraminx Duo:<br>
-Pyraminx:<br> 
+Pyraminx Duo:10:52 seonds<br>
+Pyraminx:50:92 seconds<br> 
 Skewb:
 
 ### Day 4 

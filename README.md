@@ -30,7 +30,15 @@ Skewb: 2:51:95
 #### Cube Type | A012s  
 Pyraminx Duo: 6:98 <br>
 Pyraminx: 1:53:95 <br>
-Skewb: 2:42:12  
+Skewb: 2:42:12 
+
+### Timed Solves for the Pyraminx 
+1 - 1:24:897 <br>
+2 - 3:12.882 <br>
+3 - 2:11.752 <br>
+4 - DNF <br>
+5 - DNF <br> 
+I have the DNFs because I ran out of class time, not because I could not solve it. 
 
 
 # Sources: 

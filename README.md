@@ -40,6 +40,8 @@ Skewb: 2:42:12
 5 - DNF <br> 
 I have the DNFs because I ran out of class time, not because I could not solve it. 
 
+### What I Learned 
+I started off this course not knowing how to solve any kind of rubix cube, so I feel that I have progressed a lot. I learned how to use algorithms, but more importantly, I learned how to be flexible with them. I tried to avoid being a robot executing lines of code; rather, I tried to understand how the algorithm worked. Ultimatley, this helped me be more confident, helped me get quicker solves, and I feel that it has provided me a good foundation for when I move on to the 3X3 cube. 
 
 # Sources: 
 https://www.youtube.com/watch?v=P-Zt7GEyYuE <br>

@@ -33,8 +33,9 @@ Pyraminx: 1:53:95 <br>
 Skewb: 2:42:12 
 
 ### Timed Solves for the Pyraminx 
-1 - 1:24:897 <br>
-2 - 3:12.882 <br>
+## Session 1
+1 - 1:24:897 *pb* <br>
+2 - (3:12.882)  <br>
 3 - 2:11.752 <br>
 4 - DNF <br>
 5 - DNF <br> 

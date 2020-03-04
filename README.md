@@ -5,7 +5,7 @@ Progress with cubing
 #### Cube Type | A012s  
 Pyraminx Duo: 14.21 <br>
 Pyraminx: 2:41.59 <br>
-Skewb 3:23.57 :
+Skewb 3:23.57 
 
 
 ### Day 2 

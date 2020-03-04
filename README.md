@@ -38,8 +38,8 @@ Skewb: 2:42.12
 2 - (3:12.882)  <br>
 3 - 2:11.752 <br>
 4 - DNF <br>
-5 - DNF <br> 
-Average time is - 2:11.752 
+5 - DNF <br> <
+Average time is - 2:11.752 <br> 
 I have the DNFs because I ran out of class time, not because I could not solve it. 
 
 #### Session 2 

@@ -48,19 +48,21 @@ I have the DNFs because I ran out of class time, not because I could not solve i
 3 - (1:44.370) <br> 
 4 - 1:06.203 <br> 
 5 - 1:00.097 **pb** <br> 
-Average time is - 
+Average time is - 1:17.95  
 ## Session 3 
 1 - 1:08.467 <br>
 2 - 1:07.540 <br>
 3 - (3:25.181) <br> 
 4 - 1:42.660 <br> 
 5 - 1:24.017 **pb** <br> 
+Average time is - 1:19.56
 ## Session 4
 1 - 58:410 **pb** <br>
 2 - (1:50.643) <br>
 3 - 1:21.496 <br> 
 4 - 1:00.667 <br> 
 5 - 1:17.683 <br>
+Average time is - 1:13.28
 
 ### What I Learned 
 I started off this course not knowing how to solve any kind of rubix cube, so I feel that I have progressed a lot. I learned how to use algorithms, but more importantly, I learned how to be flexible with them. I tried to avoid being a robot executing lines of code; rather, I tried to understand how the algorithm worked. Ultimatley, this helped me be more confident, helped me get quicker solves, and I feel that it has provided me a good foundation for when I move on to the 3X3 cube. 
